@@ -1,5 +1,9 @@
 package shilds_lessons_package;
 
+
+
+//Даже если ты считаешь себя нужным людям 
+
 class Box{
 	double weight;
 	double height;
